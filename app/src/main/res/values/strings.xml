@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CrimePaysApp</string>
+    <string name="username">Username</string>
+
+    <string name="password">Password</string>
+    <string name="password2">Retype Password</string>
+    <string name="country">Select Country</string>
+    <string name="email">Paypal Email</string>
+
+    <string name="login">Login</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="registration_instruction">I do not have a username and password details. Click the button below to register</string>
+
+    <string name="register_button">Register Now</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="welcome">WELCOME</string>
+
+    <string name="is_login">You have been successfully login </string>
+
+    <string name="sign_up">Sign Up Now</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="nameerror">Enter a valid username</string>
+    <string name="emailerror">Enter a valid Email</string>
+    <string name="passworderror">Enter a valid Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+</resources>
